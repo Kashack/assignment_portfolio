@@ -6,7 +6,7 @@ A new Flutter project.
 
 ### Mobile
 
-<img height=500 width=250 src="https://github.com/Kashack/assignment_portfolio/tree/master/screenshot/mobile.png" hspace=50/>
+<img height=500 width=250 src="https://github.com/Kashack/assignment_portfolio/blob/master/screenshot/mobile.png" hspace=50/>
 
 ### Website
-<img height=500 width=250 src="https://github.com/Kashack/assignment_portfolio/tree/master/screenshotweb_version.png" hspace=50/>
+<img height=500 src="https://github.com/Kashack/assignment_portfolio/blob/master/screenshot/web_version.png" hspace=50/>
