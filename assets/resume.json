@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Elias Kasumu",
+    "label": "Flutter Developer",
+    "image": "assets/images/myImage.jpg",
+    "email": "kasumu.elias@gmail.com",
+    "url": "https://KasKing.com",
+    "experience": "1+",
+    "clients": "10+",
+    "project": "10+",
+    "about": "I am a skilled developer who excels in developing exceptional mobile applications.With a strong interest in technology and a thorough grasp of the most recent mobile development trends.\nIn the fast-paced and constantly evolving world of mobile technology, I'm committed to continually learning and growing as a developer, and I'm excited about the opportunities and challenges that lie ahead. If you're looking for a mobile developer who can bring creativity, expertise, and professionalism to your project, please don't hesitate to reach out to me.",
+    "location": {
+      "address": "45,Balogun west",
+      "city": "Lagos",
+      "countryCode": "Nigeria"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Kasumu Elias",
+        "url": "https://twitter.com/john"
+      },
+      {
+        "network": "Github",
+        "username": "Kashack",
+        "url": "https://github.com/Kashack"
+      },
+      {
+        "network": "Twitter",
+        "username": "Elias Kasumu",
+        "url": "https://twitter.com/kasumuelias"
+      },
+      {
+        "network": "Instagram",
+        "username": "Elias",
+        "url": "https://instagram.com/kasumuelias"
+      }
+    ]
+  }
+]
